@@ -1,0 +1,8 @@
+dump_lba/
+TRACES/
+OS/
+token
+QEMU/
+RAMDISK/mnt/
+RAMDISK/ssd_hda.img
+RAMDISK/ssd_nvme.img

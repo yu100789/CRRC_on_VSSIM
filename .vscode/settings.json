@@ -1,0 +1,33 @@
+{
+    "files.associations": {
+        "string_view": "c",
+        "tuple": "c",
+        "*.code": "c",
+        "array": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "ssd.h": "c",
+        "common.h": "c",
+        "huffman.h": "c",
+        "regex": "c",
+        "mutex": "c",
+        "shared_mutex": "c",
+        "condition_variable": "c",
+        "*.tmpl": "cpp",
+        "*.tcc": "cpp",
+        "bitset": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "functional": "cpp",
+        "iomanip": "cpp",
+        "istream": "cpp",
+        "limits": "cpp",
+        "ostream": "cpp",
+        "ratio": "cpp",
+        "sstream": "cpp",
+        "streambuf": "cpp",
+        "chrono": "c",
+        "type_traits": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
